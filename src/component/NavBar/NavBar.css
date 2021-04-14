@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+* {
+    margin: 0;
+    font-family: "Quicksand";
+    color: #333;
+}
+
+.header {
+    padding: 20px;
+    align-items: center;
+    margin: 0 auto;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+.header .codeTailsImg {
+    display: inline-flex;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.header h1 {
+    display: inline;
+    color: #f1356d;
+    font-size: 100px;
+    font-style: italic;
+}
+
+.links ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 10px;
+    padding-bottom: 25px;
+    border-color: grey;
+}
+
+.links li {
+    list-style: none;
+}
+
+.navbar .links {
+    margin-left: auto;
+}
+
+.navbar button {
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+}
+
+.navbar button:hover {
+    color: #f1356d;
+}
