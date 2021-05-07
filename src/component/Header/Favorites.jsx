@@ -6,16 +6,14 @@ import Cocktail from '../CocktailList/Cocktail';
 function Favorites({ favorites, setFavorites }) {
   return (
     <div className="myFavorites">
-      <div className="favoriteCocktail">
-        {favorites.map((drink) => (
-          <Cocktail
-            data={drink}
-            key={drink.idDrink}
-            favorites={favorites}
-            setFavorites={setFavorites}
-          />
-        ))}
-      </div>
+      {favorites.map((drink) => (
+        <Cocktail
+          data={drink}
+          key={drink.idDrink}
+          favorites={favorites}
+          setFavorites={setFavorites}
+        />
+      ))}
     </div>
   );
 }

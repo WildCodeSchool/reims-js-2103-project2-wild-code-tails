@@ -26,7 +26,6 @@
     .dayscocktail {
         display: flex;
         justify-content: center;
-        margin-bottom: 14vh;
     }
     .fav {
         display: flex;
@@ -35,9 +34,6 @@
     
     .drinking {
         position: relative;
-    }
-    .card {
-        height: auto;
     }
     .modalButton{
         display: flex;
@@ -75,9 +71,6 @@
     
     .drinking {
         position: relative;
-    }  
-    .card {
-        height: auto;
     }
     .modalButton{
         display: flex;
@@ -86,7 +79,6 @@
     .dayscocktail {
         display: flex;
         justify-content: center;
-        margin-bottom: 25vh;
     }
 }
 /* DESKTOP */
@@ -124,6 +116,5 @@
     .dayscocktail {
         display: flex;
         justify-content: center;
-        margin-bottom: 22.50vh;
     }
 }
