@@ -40,18 +40,18 @@ function CreateCocktail({ cocktails, favorites, setFavorites }) {
   }, [firstSelectedIngredient]);
   return (
     <div className="strIngredient">
-      {firstSelectedIngredient}
-      {secondSelectedIngredient}
-      <IngredientsFilter
-        ingredients={ingredients}
-        selectedIngredient={firstSelectedIngredient}
-        setSelectedIngredient={setFirstSelectedIngredient}
-      />
-      <IngredientsFilter
-        ingredients={refinedIngredients}
-        selectedIngredient={secondSelectedIngredient}
-        setSelectedIngredient={setSecondSelectedIngredient}
-      />
+      <div className="strIngredientSelectors">
+        <IngredientsFilter
+          ingredients={ingredients}
+          selectedIngredient={firstSelectedIngredient}
+          setSelectedIngredient={setFirstSelectedIngredient}
+        />
+        <IngredientsFilter
+          ingredients={refinedIngredients}
+          selectedIngredient={secondSelectedIngredient}
+          setSelectedIngredient={setSecondSelectedIngredient}
+        />
+      </div>
       <CocktailList
         cocktails={cocktails.filter((cocktail) => (
           (
