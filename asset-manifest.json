@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reims-js-2103-project2-wild-code-tails/static/css/main.f276bf63.chunk.css",
+    "main.js": "/reims-js-2103-project2-wild-code-tails/static/js/main.f40b1b96.chunk.js",
+    "main.js.map": "/reims-js-2103-project2-wild-code-tails/static/js/main.f40b1b96.chunk.js.map",
+    "runtime-main.js": "/reims-js-2103-project2-wild-code-tails/static/js/runtime-main.55dfae05.js",
+    "runtime-main.js.map": "/reims-js-2103-project2-wild-code-tails/static/js/runtime-main.55dfae05.js.map",
+    "static/js/2.bd6ab6ce.chunk.js": "/reims-js-2103-project2-wild-code-tails/static/js/2.bd6ab6ce.chunk.js",
+    "static/js/2.bd6ab6ce.chunk.js.map": "/reims-js-2103-project2-wild-code-tails/static/js/2.bd6ab6ce.chunk.js.map",
+    "static/js/3.a62790bb.chunk.js": "/reims-js-2103-project2-wild-code-tails/static/js/3.a62790bb.chunk.js",
+    "static/js/3.a62790bb.chunk.js.map": "/reims-js-2103-project2-wild-code-tails/static/js/3.a62790bb.chunk.js.map",
+    "index.html": "/reims-js-2103-project2-wild-code-tails/index.html",
+    "static/css/main.f276bf63.chunk.css.map": "/reims-js-2103-project2-wild-code-tails/static/css/main.f276bf63.chunk.css.map",
+    "static/js/2.bd6ab6ce.chunk.js.LICENSE.txt": "/reims-js-2103-project2-wild-code-tails/static/js/2.bd6ab6ce.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reims-js-2103-project2-wild-code-tails/static/media/backgroundimg.589cfbf0.png",
+    "static/media/headerLogo.e79643a7.png": "/reims-js-2103-project2-wild-code-tails/static/media/headerLogo.e79643a7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55dfae05.js",
+    "static/js/2.bd6ab6ce.chunk.js",
+    "static/css/main.f276bf63.chunk.css",
+    "static/js/main.f40b1b96.chunk.js"
+  ]
+}
