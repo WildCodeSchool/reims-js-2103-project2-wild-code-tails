@@ -23,6 +23,12 @@ function Cocktail({ data, favorites, setFavorites }) {
                 <h2 className="card-title">{data.strDrink}</h2>
                 <img className="modal-img" src={data.strDrinkThumb} alt="illustration" />
                 <IngredientList
+                  mesure1={data.strMeasure1}
+                  mesure2={data.strMeasure2}
+                  mesure3={data.strMeasure3}
+                  mesure4={data.strMeasure4}
+                  mesure5={data.strMeasure5}
+                  mesure6={data.strMeasure6}
                   ingredient1={data.strIngredient1}
                   ingredient2={data.strIngredient2}
                   ingredient3={data.strIngredient3}
@@ -43,6 +49,12 @@ Cocktail.propTypes = {
   data: PropTypes.shape({
     strDrink: PropTypes.string.isRequired,
     strDrinkThumb: PropTypes.string.isRequired,
+    strMeasure1: PropTypes.string,
+    strMeasure2: PropTypes.string,
+    strMeasure3: PropTypes.string,
+    strMeasure4: PropTypes.string,
+    strMeasure5: PropTypes.string,
+    strMeasure6: PropTypes.string,
     strIngredient1: PropTypes.string,
     strIngredient2: PropTypes.string,
     strIngredient3: PropTypes.string,
