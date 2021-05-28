@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/cocktail/static/css/main.71005425.chunk.css",
-    "main.js": "/cocktail/static/js/main.79a8a330.chunk.js",
-    "main.js.map": "/cocktail/static/js/main.79a8a330.chunk.js.map",
-    "runtime-main.js": "/cocktail/static/js/runtime-main.6c90eab7.js",
-    "runtime-main.js.map": "/cocktail/static/js/runtime-main.6c90eab7.js.map",
-    "static/js/2.bd6ab6ce.chunk.js": "/cocktail/static/js/2.bd6ab6ce.chunk.js",
-    "static/js/2.bd6ab6ce.chunk.js.map": "/cocktail/static/js/2.bd6ab6ce.chunk.js.map",
-    "static/js/3.a62790bb.chunk.js": "/cocktail/static/js/3.a62790bb.chunk.js",
-    "static/js/3.a62790bb.chunk.js.map": "/cocktail/static/js/3.a62790bb.chunk.js.map",
-    "index.html": "/cocktail/index.html",
-    "static/css/main.71005425.chunk.css.map": "/cocktail/static/css/main.71005425.chunk.css.map",
-    "static/js/2.bd6ab6ce.chunk.js.LICENSE.txt": "/cocktail/static/js/2.bd6ab6ce.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/cocktail/static/media/backgroundimg.589cfbf0.png",
-    "static/media/headerLogo.e79643a7.png": "/cocktail/static/media/headerLogo.e79643a7.png"
+    "main.css": "/reims-js-2103-project2-wild-code-tails/static/css/main.f276bf63.chunk.css",
+    "main.js": "/reims-js-2103-project2-wild-code-tails/static/js/main.0bbb4c5f.chunk.js",
+    "main.js.map": "/reims-js-2103-project2-wild-code-tails/static/js/main.0bbb4c5f.chunk.js.map",
+    "runtime-main.js": "/reims-js-2103-project2-wild-code-tails/static/js/runtime-main.55dfae05.js",
+    "runtime-main.js.map": "/reims-js-2103-project2-wild-code-tails/static/js/runtime-main.55dfae05.js.map",
+    "static/js/2.bd6ab6ce.chunk.js": "/reims-js-2103-project2-wild-code-tails/static/js/2.bd6ab6ce.chunk.js",
+    "static/js/2.bd6ab6ce.chunk.js.map": "/reims-js-2103-project2-wild-code-tails/static/js/2.bd6ab6ce.chunk.js.map",
+    "static/js/3.a62790bb.chunk.js": "/reims-js-2103-project2-wild-code-tails/static/js/3.a62790bb.chunk.js",
+    "static/js/3.a62790bb.chunk.js.map": "/reims-js-2103-project2-wild-code-tails/static/js/3.a62790bb.chunk.js.map",
+    "index.html": "/reims-js-2103-project2-wild-code-tails/index.html",
+    "static/css/main.f276bf63.chunk.css.map": "/reims-js-2103-project2-wild-code-tails/static/css/main.f276bf63.chunk.css.map",
+    "static/js/2.bd6ab6ce.chunk.js.LICENSE.txt": "/reims-js-2103-project2-wild-code-tails/static/js/2.bd6ab6ce.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reims-js-2103-project2-wild-code-tails/static/media/backgroundimg.589cfbf0.png",
+    "static/media/headerLogo.e79643a7.png": "/reims-js-2103-project2-wild-code-tails/static/media/headerLogo.e79643a7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c90eab7.js",
+    "static/js/runtime-main.55dfae05.js",
     "static/js/2.bd6ab6ce.chunk.js",
-    "static/css/main.71005425.chunk.css",
-    "static/js/main.79a8a330.chunk.js"
+    "static/css/main.f276bf63.chunk.css",
+    "static/js/main.0bbb4c5f.chunk.js"
   ]
 }
